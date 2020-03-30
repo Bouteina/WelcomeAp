@@ -1,0 +1,5 @@
+<resources>
+    <string name="window_text">Press the button below to receive a friendly greeting from Android.</string>
+    <string name="button_label">Show Greeting</string>
+    <string name="welcome">Hello from Android!</string>
+</resources>
